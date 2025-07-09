@@ -3,9 +3,9 @@
 
 <img align = "right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qa8zkywtogb3lqdaj1z5unc6ajvxol6lmbu1rwp1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Automatic Quiz Difficulty Adjustment Algorithm**
+- 🔭 I’m currently working on SAR image classification
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning backend development.
 
 - 📫 How to reach me **vaibhav.bennettedu@gmail.com**
 

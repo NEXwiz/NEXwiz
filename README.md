@@ -9,7 +9,8 @@
 - 🎓 Final-year **B.Tech CSE (Data Science Specialization)** student.  
 - 🔭 Currently working on **MERN stack projects** and **AI/ML models**.  
 - 🌱 Exploring **Investment Banking + Tech** career opportunities.  
-- 💡 Love solving real-world problems with AI, Fullstack Dev, and Data Analytics.  
+- 💡 Love solving real-world problems with AI, Fullstack Dev, and Data Analytics.
+- - 📫 Reach me at: **vaibhav.bennettedu@gmail.com**   
    
 
 ---

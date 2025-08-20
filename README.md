@@ -40,7 +40,7 @@
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="45" />
   
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,opencv,git" height="45" />
@@ -69,6 +69,6 @@
 ### 🌍 Connect with Me
 <p align="left">
   <a href="mailto:vaibhav.bennettedu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/vaibhav-gupta-a2b750256/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/vaibhavgupta"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>

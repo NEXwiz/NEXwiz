@@ -61,7 +61,6 @@
 
 ### 🌍 Connect with Me
 <p align="left">
-  📫 Reach me at: **vaibhav.bennettedu@gmail.com** 
   <a href="https://www.linkedin.com/in/vaibhav-gupta-a2b750256/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/vaibhavgupta"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://github.com/NEXwiz"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>

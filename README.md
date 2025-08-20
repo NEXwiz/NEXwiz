@@ -10,7 +10,7 @@
 - 🔭 Currently working on **MERN stack projects** and **AI/ML models**.  
 - 🌱 Exploring **Investment Banking + Tech** career opportunities.  
 - 💡 Love solving real-world problems with AI, Fullstack Dev, and Data Analytics.  
-- 📫 Reach me at: **vaibhav.bennettedu@gmail.com**  
+   
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### 🌍 Connect with Me
 <p align="left">
-  <a href="mailto:vaibhav.bennettedu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  📫 Reach me at: **vaibhav.bennettedu@gmail.com** 
   <a href="https://www.linkedin.com/in/vaibhav-gupta-a2b750256/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/vaibhavgupta"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>

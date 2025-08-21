@@ -10,7 +10,7 @@
 - 🔭 Currently working on **MERN stack projects** and **AI/ML models**.  
 - 🌱 Exploring **Investment Banking + Tech** career opportunities.  
 - 💡 Love solving real-world problems with AI, Fullstack Dev, and Data Analytics.
-- - 📫 Reach me at: **vaibhav.bennettedu@gmail.com**   
+- 📫 Reach me at: **vaibhav.bennettedu@gmail.com**   
    
 
 ---

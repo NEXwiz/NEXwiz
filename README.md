@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center"> Aspiring Software Engineer | Data Science & AI |  
+<h3 align="center"> AIML Engineer 
 </h3>
 
 <img align="right" alt="coding" width="380" 

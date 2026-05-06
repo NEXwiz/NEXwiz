@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center"> AI/ML Engineer | Data Science | Full-Stack </h3>
+<h3 align="center"> AI/ML Engineer</h3>
 
 <img align="right" alt="coding" width="380" 
 src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">

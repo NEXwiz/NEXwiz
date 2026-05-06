@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center"> AIML Engineer 
-</h3>
+<h3 align="center"> AI/ML Engineer | Data Science | Full-Stack </h3>
 
 <img align="right" alt="coding" width="380" 
 src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -8,51 +7,45 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **B.Tech CSE (Data Science Specialization)** student  
-- 💡 Building at the intersection of **AI, Fullstack Development & Data Analytics**  
-- 🔭 Currently working on **MERN stack applications + AI-based systems**  
-- 📊 Skilled in **Data Analysis (Excel, Power BI, Pandas, NumPy)**  
-- 🧠 Strong focus on **DSA & problem solving**  
-- 💼 Exploring careers in **Software Engineering, FinTech & Investment Banking (Quant/Tech roles)**  
-- 📫 Reach me at: **vaibhav.bennettedu@gmail.com**
+- 🎓 Final-year **B.Tech CSE** student at Bennett University with a CGPA of 8.5[cite: 5].  
+- 💡 Building at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Development**[cite: 5].  
+- 🔭 Currently exploring three distinct areas: **developing Agentic AI (multi-agent workflows), building Model Context Protocol (MCP) servers, and designing custom RAG systems**.  
+- 💼 Actively seeking an **internship or full-time position as an AI/ML Engineer**.  
+- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91-7011045308**[cite: 5].
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧠 DocIntel AI Platform  
-📌 Developed an **AI-powered document intelligence platform** during internship to process and analyze structured & unstructured data  
-📌 Built pipelines for **document classification, information extraction, and automated workflows**  
-📌 Leveraged **LLMs / GenAI tools** for intelligent data processing and automation  
-⚙️ Tech: *Python, LLM APIs, NLP, Backend APIs*  
+#### 🪙 Artha — Personal Finance Agent  
+📌 Architected a privacy-first AI agent using Gemini 2.5 Flash and the Model Context Protocol (MCP), improving financial query accuracy by 38% compared to baseline LLMs[cite: 5].  
+📌 Developed a modular FastAPI backend integrating 13 hot-swappable MCP tools across 3 servers[cite: 5].  
+📌 Built a React dashboard with Mem0 Cloud for persistent cross-session memory[cite: 5].  
+⚙️ Tech: *Python, FastAPI, React, MCP, Gemini 2.5 Flash, Mem0*[cite: 5].  
 
 ---
 
-#### 🗑️ Trash Troops  
-📌 Developed a **real-time garbage reporting platform** using image + location data  
-📌 Implemented **task assignment system** for efficient waste collection  
-⚙️ Tech: *React.js, Node.js, Express.js, MongoDB*  
+#### 🧠 GenAI Autonomous Research Assistant  
+📌 Architected a multi-agent AI system using LangGraph and Gemini 2.5 Flash to automate complex research tasks[cite: 5].  
+📌 Accelerated research speed by 400% by implementing LangGraph's Send() API for concurrent web searches[cite: 5].  
+📌 Integrated Tavily Search API to condense raw results into clean markdown reports with inline citations[cite: 5].  
+⚙️ Tech: *Python, LangGraph, Google Gemini, Tavily API, Streamlit*[cite: 5].  
 
 ---
 
-#### 📝 ThinkBoard  
-📌 Built a **scalable notes management system** with full CRUD operations  
-📌 Integrated **rate limiting & Redis (Upstash)** for backend optimization  
-⚙️ Tech: *MERN Stack, REST APIs, Upstash Redis*  
+#### 📚 Docintel-AI-Platform  
+📌 Developed an end-to-end RAG platform utilizing Gemini-2.5-Flash and Qdrant vector DB[cite: 5].  
+📌 Achieved 200ms retrieval latency for semantic search across 100+ page PDFs[cite: 5].  
+📌 Orchestrated a multi-container environment using Docker Compose and implemented JWT authentication with PostgreSQL[cite: 5].  
+⚙️ Tech: *Python, FastAPI, React, Qdrant, Docker*[cite: 5].  
 
 ---
 
-#### 🛰️ SAR Image Colorization  
-📌 Designed a **cGAN-based deep learning model** to colorize SAR satellite images  
-📌 Improved interpretability of grayscale radar imagery  
-⚙️ Tech: *Python, TensorFlow, Keras, OpenCV*  
-
----
-
-#### 🌐 OCR Translator  
-📌 Created a **desktop GUI tool** for extracting & translating text from images  
-📌 Supported **multi-language translation pipeline**  
-⚙️ Tech: *Python, Tesseract OCR, OpenCV, Pillow, CustomTkinter*  
+#### 🛰️ SAR Image Colorization (Hackathon Project)  
+📌 Designed a Conditional GAN (cGAN) with a U-Net generator to colorize grayscale Synthetic Aperture Radar (SAR) images[cite: 5].  
+📌 Achieved a PSNR of 24.5dB and SSIM of 0.82 by training on paired optical-SAR datasets[cite: 5].  
+📌 Built a React-based dashboard to visualize side-by-side colorized results[cite: 5].  
+⚙️ Tech: *React, Python, TensorFlow, Keras, MongoDB*[cite: 5].  
 
 ---
 
@@ -60,23 +53,23 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 #### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="45" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,html,css" height="45" />
 </p>
 
-#### ⚙️ Development
+#### ⚙️ Frameworks & Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git" height="45" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,express,tailwind,git,docker,postgres,mongodb" height="45" />
 </p>
 
-#### 📊 Data Science & AI
+#### 🧠 AI/ML & Tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="45"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/qdrant.png" height="45"/>
 </p>
+
+*Additional Frameworks:* LangChain, LangGraph, Keras, MLflow[cite: 5].
 
 ---
 
@@ -89,10 +82,9 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ### 🎯 Current Focus
-- 📌 Mastering **DSA for placements**
-- 📌 Building **production-ready MERN + AI systems**
-- 📌 Strengthening **Data Analytics & business understanding**
-
+- 📌 Building **autonomous agents and multi-agent workflows** using LangGraph and LangChain[cite: 5].
+- 📌 Developing **Model Context Protocol (MCP)** servers to securely connect LLMs to local data streams[cite: 5].
+- 📌 Engineering robust **RAG pipelines** to manage personal knowledge bases.
 
 ---
 
@@ -108,4 +100,4 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-⭐️ *Open to internships, full-time roles, and impactful collaborations*
+⭐️ *Open to internships, full-time roles, and impactful collaborations!*

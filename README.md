@@ -7,7 +7,7 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **B.Tech Computer Science and Engineering** student at Bennett University with a CGPA of 8.5[cite: 5].  
+- 🎓 Final-year **B.Tech Computer Science and Engineering** student at Bennett University with a CGPA of 8.5.  
 - 💡 Specializing strictly in **Artificial Intelligence and Machine Learning**, with a strong focus on production-grade AI infrastructure[cite: 5].  
 - 🔭 Dedicated to mastering three distinct domains: **developing Agentic AI (autonomous multi-agent workflows), building Model Context Protocol (MCP) servers, and architecting advanced RAG systems**.  
 - 💼 Actively seeking an **internship or full-time position as an AI/ML Engineer** where I can build complex, scalable AI products.  

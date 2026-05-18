@@ -11,40 +11,40 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 💡 Specializing strictly in **Artificial Intelligence and Machine Learning**, with a strong focus on production-grade AI infrastructure[cite: 5].  
 - 🔭 Dedicated to mastering three distinct domains: **developing Agentic AI (autonomous multi-agent workflows), building Model Context Protocol (MCP) servers, and architecting advanced RAG systems**.  
 - 💼 Actively seeking an **internship or full-time position as an AI/ML Engineer** where I can build complex, scalable AI products.  
-- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91-7011045308**[cite: 5].
+- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91-7011045308**.
 
 ---
 
 ### 🚀 Featured AI & ML Projects
 
 #### 🪙 Artha — Personal Finance Agent  
-📌 Architected a privacy-first AI agent using Gemini 2.5 Flash and the Model Context Protocol (MCP), improving financial query accuracy by 38% compared to baseline LLMs[cite: 5].  
-📌 Developed a modular FastAPI backend integrating 13 hot-swappable MCP tools across 3 servers, enabling secure transaction analysis and anomaly detection[cite: 5].  
-📌 Integrated Mem0 Cloud for persistent cross-session memory, allowing the agent to manage long-term financial context[cite: 5].  
-⚙️ Tech: *Python, FastAPI, MCP, Gemini 2.5 Flash, Mem0*[cite: 5].  
+📌 Architected a privacy-first AI agent using Gemini 2.5 Flash and the Model Context Protocol (MCP), improving financial query accuracy by 38% compared to baseline LLMs.  
+📌 Developed a modular FastAPI backend integrating 13 hot-swappable MCP tools across 3 servers, enabling secure transaction analysis and anomaly detection.  
+📌 Integrated Mem0 Cloud for persistent cross-session memory, allowing the agent to manage long-term financial context.  
+⚙️ Tech: *Python, FastAPI, MCP, Gemini 2.5 Flash, Mem0*.  
 
 ---
 
 #### 🧠 GenAI Autonomous Research Assistant  
-📌 Architected a multi-agent AI system using LangGraph and Gemini 2.5 Flash to automate complex research tasks from topic breakdown to report synthesis[cite: 5].  
-📌 Accelerated research speed by 400% by implementing LangGraph's Send() API for concurrent web searches and data summarization[cite: 5].  
-📌 Engineered the system to run with zero human intervention, utilizing Critic nodes for self-correction and quality control[cite: 5].  
-⚙️ Tech: *Python, LangGraph, LangChain, Google Gemini, Tavily API*[cite: 5].  
+📌 Architected a multi-agent AI system using LangGraph and Gemini 2.5 Flash to automate complex research tasks from topic breakdown to report synthesis.  
+📌 Accelerated research speed by 400% by implementing LangGraph's Send() API for concurrent web searches and data summarization.  
+📌 Engineered the system to run with zero human intervention, utilizing Critic nodes for self-correction and quality control.  
+⚙️ Tech: *Python, LangGraph, LangChain, Google Gemini, Tavily API*.  
 
 ---
 
 #### 📚 Docintel-AI-Platform  
-📌 Developed a production-grade RAG platform utilizing Gemini-2.5-Flash and Qdrant vector database[cite: 5].  
-📌 Achieved sub-200ms retrieval latency for semantic search across 100+ page PDFs by optimizing embedding strategies[cite: 5].  
-📌 Deployed as a scalable, multi-container architecture using Docker Compose[cite: 5].  
-⚙️ Tech: *Python, FastAPI, Qdrant, Docker, Gemini 2.5 Flash*[cite: 5].  
+📌 Developed a production-grade RAG platform utilizing Gemini-2.5-Flash and Qdrant vector database.  
+📌 Achieved sub-200ms retrieval latency for semantic search across 100+ page PDFs by optimizing embedding strategies.  
+📌 Deployed as a scalable, multi-container architecture using Docker Compose.  
+⚙️ Tech: *Python, FastAPI, Qdrant, Docker, Gemini 2.5 Flash*.  
 
 ---
 
 #### 🛰️ SAR Image Colorization (Hackathon Project)  
-📌 Designed a deep learning model to colorize grayscale Synthetic Aperture Radar (SAR) images using Conditional GANs (cGANs)[cite: 5].  
-📌 Utilized a U-Net generator architecture to accurately map grayscale inputs to color distributions[cite: 5].  
-📌 Achieved a PSNR of 24.5dB and SSIM of 0.82 by training on complex, paired optical-SAR datasets[cite: 5].  
+📌 Designed a deep learning model to colorize grayscale Synthetic Aperture Radar (SAR) images using Conditional GANs (cGANs).  
+📌 Utilized a U-Net generator architecture to accurately map grayscale inputs to color distributions.  
+📌 Achieved a PSNR of 24.5dB and SSIM of 0.82 by training on complex, paired optical-SAR datasets.  
 ⚙️ Tech: *Python, TensorFlow, Keras, OpenCV*[cite: 5].  
 
 ---
@@ -64,7 +64,7 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://img.icons8.com/color/48/000000/qdrant.png" height="45"/>
 </p>
 <p>
-<i>Proficient in: LangChain, LangGraph, Model Context Protocol (MCP), MLflow, Keras</i>[cite: 5]
+<i>Proficient in: LangChain, LangGraph, Model Context Protocol (MCP), MLflow, Keras</i>
 </p>
 
 #### ⚙️ Infrastructure & Deployment

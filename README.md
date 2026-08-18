@@ -1,51 +1,50 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center"> AI/ML Engineer | Agentic AI & Systems Specialist </h3>
+<h3 align="center"> AI/ML Engineer | Agentic Systems & LLM Workflows </h3>
 
-<img align="right" alt="coding" width="380" 
-src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="380" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **B.Tech Computer Science and Engineering** student at Bennett University with a CGPA of 8.5.  
-- 💡 Specializing strictly in **Artificial Intelligence and Machine Learning**, with a strong focus on production-grade AI infrastructure[cite: 5].  
-- 🔭 Dedicated to mastering three distinct domains: **developing Agentic AI (autonomous multi-agent workflows), building Model Context Protocol (MCP) servers, and architecting advanced RAG systems**.  
-- 💼 Actively seeking an **internship or full-time position as an AI/ML Engineer** where I can build complex, scalable AI products.  
-- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91-7011045308**.
+- 🎓 CS Graduate from Bennett University (CGPA 8.5)[cite: 1, 2].
+- 💡 Building production ready AI systems, autonomous agent workflows, and low latency retrieval pipelines[cite: 1, 2].
+- 🔭 Focusing deeply on three areas: **Agentic AI (multi agent systems), Model Context Protocol (MCP) servers, and scalable RAG pipelines**[cite: 1, 2].
+- 💼 Actively looking for full time **AI/ML Engineer** roles where I can ship high impact products[cite: 1, 2].
+- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91 7011045308**[cite: 1, 2].
 
 ---
 
-### 🚀 Featured AI & ML Projects
+### 🚀 Featured Projects
 
-#### 🪙 Artha — Personal Finance Agent  
-📌 Architected a privacy-first AI agent using Gemini 2.5 Flash and the Model Context Protocol (MCP), improving financial query accuracy by 38% compared to baseline LLMs.  
-📌 Developed a modular FastAPI backend integrating 13 hot-swappable MCP tools across 3 servers, enabling secure transaction analysis and anomaly detection.  
-📌 Integrated Mem0 Cloud for persistent cross-session memory, allowing the agent to manage long-term financial context.  
-⚙️ Tech: *Python, FastAPI, MCP, Gemini 2.5 Flash, Mem0*.  
-
----
-
-#### 🧠 GenAI Autonomous Research Assistant  
-📌 Architected a multi-agent AI system using LangGraph and Gemini 2.5 Flash to automate complex research tasks from topic breakdown to report synthesis.  
-📌 Accelerated research speed by 400% by implementing LangGraph's Send() API for concurrent web searches and data summarization.  
-📌 Engineered the system to run with zero human intervention, utilizing Critic nodes for self-correction and quality control.  
-⚙️ Tech: *Python, LangGraph, LangChain, Google Gemini, Tavily API*.  
+#### 🪙 Artha — Personal Finance Agent
+📌 Built a privacy focused AI agent using Gemini 2.5 Flash and Model Context Protocol (MCP), boosting financial query accuracy by 38%[cite: 1, 2].  
+📌 Created a modular FastAPI backend connecting 13 hot swappable MCP tools across 3 servers for live transaction analysis and anomaly checks[cite: 1, 2].  
+📌 Integrated Mem0 Cloud to give the agent long term cross session memory with zero context loss[cite: 1, 2].  
+⚙️ Tech: *Python, FastAPI, MCP, Gemini 2.5 Flash, Mem0, React*[cite: 1, 2]
 
 ---
 
-#### 📚 Docintel-AI-Platform  
-📌 Developed a production-grade RAG platform utilizing Gemini-2.5-Flash and Qdrant vector database.  
-📌 Achieved sub-200ms retrieval latency for semantic search across 100+ page PDFs by optimizing embedding strategies.  
-📌 Deployed as a scalable, multi-container architecture using Docker Compose.  
-⚙️ Tech: *Python, FastAPI, Qdrant, Docker, Gemini 2.5 Flash*.  
+#### 💼 Connect+ — AI Job Discovery & Resume Tailoring
+📌 Built an intelligent job discovery platform with semantic search across 200+ live job listings using pgvector embeddings[cite: 1, 2].  
+📌 Created a custom scoring engine combining tech stacks, experience, GitHub projects, and CP stats to calculate a weighted match percentage[cite: 1, 2].  
+📌 Developed an automated resume tailoring pipeline using Claude via OpenRouter that returns cached, ranked suggestions and gap analysis[cite: 1, 2].  
+⚙️ Tech: *Python, FastAPI, Supabase, pgvector, PostgreSQL, Langfuse, React, TypeScript, OpenRouter*[cite: 1, 2]
 
 ---
 
-#### 🛰️ SAR Image Colorization (Hackathon Project)  
-📌 Designed a deep learning model to colorize grayscale Synthetic Aperture Radar (SAR) images using Conditional GANs (cGANs).  
-📌 Utilized a U-Net generator architecture to accurately map grayscale inputs to color distributions.  
-📌 Achieved a PSNR of 24.5dB and SSIM of 0.82 by training on complex, paired optical-SAR datasets.  
-⚙️ Tech: *Python, TensorFlow, Keras, OpenCV*[cite: 5].  
+#### 🧠 GenAI Autonomous Research Assistant
+📌 Built a multi agent AI system using LangGraph and Gemini 2.5 Flash that automates research from topic breakdown to final cited report[cite: 1, 2].  
+📌 Sped up research runs by 400% using LangGraph's Send API to run web searches and summarization in parallel instead of sequentially[cite: 1, 2].  
+📌 Streamlined retrieval with Tavily API to condense messy web results into clean markdown summaries with zero human handholding[cite: 1, 2].  
+⚙️ Tech: *Python, LangGraph, Google Gemini, Tavily API, Streamlit*[cite: 1, 2]
+
+---
+
+#### 📚 Docintel AI Platform
+📌 Built an end to end RAG platform using Gemini 2.5 Flash and Qdrant vector database[cite: 1, 2].  
+📌 Hit 200ms retrieval latency for semantic search across 100+ page PDFs[cite: 1, 2].  
+📌 Deployed as a reliable multi container setup using Docker Compose with secure JWT auth and PostgreSQL metadata storage[cite: 1, 2].  
+⚙️ Tech: *Python, FastAPI, Qdrant, Docker, PostgreSQL, Supabase, React*[cite: 1, 2]
 
 ---
 
@@ -53,7 +52,7 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 #### 💻 Core Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sql" height="45" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" height="45" />
 </p>
 
 #### 🧠 AI Frameworks & Orchestration
@@ -64,12 +63,12 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://img.icons8.com/color/48/000000/qdrant.png" height="45"/>
 </p>
 <p>
-<i>Proficient in: LangChain, LangGraph, Model Context Protocol (MCP), MLflow, Keras</i>
+<i>LangChain, LangGraph, Model Context Protocol (MCP), Langfuse, PyTorch, TensorFlow</i>
 </p>
 
-#### ⚙️ Infrastructure & Deployment
+#### ⚙️ Backend, Databases & Infra
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,git" height="45" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,react,git" height="45" />
 </p>
 
 ---
@@ -82,10 +81,10 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-### 🎯 Current Focus Tracks
-- 📌 **Agentic AI:** Designing autonomous, multi-agent workflows using LangGraph for hierarchical task execution.
-- 📌 **Model Context Protocol:** Building custom MCP servers to securely standardize tool usage and data retrieval for LLMs.
-- 📌 **RAG Systems:** Optimizing document chunking and vector retrieval strategies to completely eliminate hallucinations in enterprise systems.
+### 🎯 What I'm Focused On
+- 📌 **Agentic AI:** Building autonomous multi agent workflows using LangGraph that run in parallel without choking[cite: 1, 2].
+- 📌 **Model Context Protocol (MCP):** Creating standard MCP servers so LLMs can securely access external tools and clean data[cite: 1, 2].
+- 📌 **Production RAG:** Designing low latency vector search systems that pull accurate data fast with zero hallucination[cite: 1, 2].
 
 ---
 
@@ -101,4 +100,4 @@ src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-⭐️ *Open to AI/ML engineering internships, full-time roles, and challenging technical collaborations!*
+⭐️ *Always open to full time AI/ML engineering roles, hackathons, and building cool AI products!*

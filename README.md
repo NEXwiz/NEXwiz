@@ -6,45 +6,45 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CS Graduate from Bennett University (CGPA 8.5)[cite: 1, 2].
-- 💡 Building production ready AI systems, autonomous agent workflows, and low latency retrieval pipelines[cite: 1, 2].
-- 🔭 Focusing deeply on three areas: **Agentic AI (multi agent systems), Model Context Protocol (MCP) servers, and scalable RAG pipelines**[cite: 1, 2].
-- 💼 Actively looking for full time **AI/ML Engineer** roles where I can ship high impact products[cite: 1, 2].
-- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91 7011045308**[cite: 1, 2].
+- 🎓 CS Graduate from Bennett University (CGPA 8.39).
+- 💡 Building production ready AI systems, autonomous agent workflows, and low latency retrieval pipelines.
+- 🔭 Focusing deeply on three areas: **Agentic AI (multi agent systems), Model Context Protocol (MCP) servers, and scalable RAG pipelines**.
+- 💼 Actively looking for full time **AI/ML Engineer** roles where I can ship high impact products.
+- 📫 Reach me at: **vaibhav.bennettedu@gmail.com** or **+91 7011045308**.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🪙 Artha — Personal Finance Agent
-📌 Built a privacy focused AI agent using Gemini 2.5 Flash and Model Context Protocol (MCP), boosting financial query accuracy by 38%[cite: 1, 2].  
-📌 Created a modular FastAPI backend connecting 13 hot swappable MCP tools across 3 servers for live transaction analysis and anomaly checks[cite: 1, 2].  
-📌 Integrated Mem0 Cloud to give the agent long term cross session memory with zero context loss[cite: 1, 2].  
-⚙️ Tech: *Python, FastAPI, MCP, Gemini 2.5 Flash, Mem0, React*[cite: 1, 2]
-
----
-
 #### 💼 Connect+ — AI Job Discovery & Resume Tailoring
-📌 Built an intelligent job discovery platform with semantic search across 200+ live job listings using pgvector embeddings[cite: 1, 2].  
-📌 Created a custom scoring engine combining tech stacks, experience, GitHub projects, and CP stats to calculate a weighted match percentage[cite: 1, 2].  
-📌 Developed an automated resume tailoring pipeline using Claude via OpenRouter that returns cached, ranked suggestions and gap analysis[cite: 1, 2].  
-⚙️ Tech: *Python, FastAPI, Supabase, pgvector, PostgreSQL, Langfuse, React, TypeScript, OpenRouter*[cite: 1, 2]
-
----
-
-#### 🧠 GenAI Autonomous Research Assistant
-📌 Built a multi agent AI system using LangGraph and Gemini 2.5 Flash that automates research from topic breakdown to final cited report[cite: 1, 2].  
-📌 Sped up research runs by 400% using LangGraph's Send API to run web searches and summarization in parallel instead of sequentially[cite: 1, 2].  
-📌 Streamlined retrieval with Tavily API to condense messy web results into clean markdown summaries with zero human handholding[cite: 1, 2].  
-⚙️ Tech: *Python, LangGraph, Google Gemini, Tavily API, Streamlit*[cite: 1, 2]
+📌 Built an intelligent job discovery platform with semantic search across 200+ live job listings using pgvector embeddings.  
+📌 Created a custom scoring engine combining tech stacks, experience, GitHub projects, and CP stats to calculate a weighted match percentage.  
+📌 Developed an automated resume tailoring pipeline using Claude via OpenRouter that returns cached, ranked suggestions and gap analysis.  
+⚙️ Tech: *Python, FastAPI, Supabase, pgvector, PostgreSQL, Langfuse, React, TypeScript, OpenRouter*
 
 ---
 
 #### 📚 Docintel AI Platform
-📌 Built an end to end RAG platform using Gemini 2.5 Flash and Qdrant vector database[cite: 1, 2].  
-📌 Hit 200ms retrieval latency for semantic search across 100+ page PDFs[cite: 1, 2].  
-📌 Deployed as a reliable multi container setup using Docker Compose with secure JWT auth and PostgreSQL metadata storage[cite: 1, 2].  
-⚙️ Tech: *Python, FastAPI, Qdrant, Docker, PostgreSQL, Supabase, React*[cite: 1, 2]
+📌 Built an end to end RAG platform using Gemini 2.5 Flash and Qdrant vector database.  
+📌 Hit 200ms retrieval latency for semantic search across 100+ page PDFs.  
+📌 Deployed as a reliable multi container setup using Docker Compose with secure JWT auth and PostgreSQL metadata storage.  
+⚙️ Tech: *Python, FastAPI, Qdrant, Docker, PostgreSQL, Supabase, React*
+
+---
+
+#### 🧠 GenAI Autonomous Research Assistant
+📌 Built a multi agent AI system using LangGraph and Gemini 2.5 Flash that automates research from topic breakdown to final cited report.  
+📌 Sped up research runs by 400% using LangGraph's Send API to run web searches and summarization in parallel instead of sequentially.  
+📌 Streamlined retrieval with Tavily API to condense messy web results into clean markdown summaries with zero human handholding.  
+⚙️ Tech: *Python, LangGraph, Google Gemini, Tavily API, Streamlit*
+
+---
+
+#### 🪙 Artha — Personal Finance Agent
+📌 Built a privacy focused AI agent using Gemini 2.5 Flash and Model Context Protocol (MCP), boosting financial query accuracy by 38%.  
+📌 Created a modular FastAPI backend connecting 13 hot swappable MCP tools across 3 servers for live transaction analysis and anomaly checks.  
+📌 Integrated Mem0 Cloud to give the agent long term cross session memory with zero context loss.  
+⚙️ Tech: *Python, FastAPI, MCP, Gemini 2.5 Flash, Mem0, React*
 
 ---
 
@@ -82,9 +82,9 @@
 ---
 
 ### 🎯 What I'm Focused On
-- 📌 **Agentic AI:** Building autonomous multi agent workflows using LangGraph that run in parallel without choking[cite: 1, 2].
-- 📌 **Model Context Protocol (MCP):** Creating standard MCP servers so LLMs can securely access external tools and clean data[cite: 1, 2].
-- 📌 **Production RAG:** Designing low latency vector search systems that pull accurate data fast with zero hallucination[cite: 1, 2].
+- 📌 **Agentic AI:** Building autonomous multi agent workflows using LangGraph that run in parallel without choking.
+- 📌 **Model Context Protocol (MCP):** Creating standard MCP servers so LLMs can securely access external tools and clean data.
+- 📌 **Production RAG:** Designing low latency vector search systems that pull accurate data fast with zero hallucination.
 
 ---
 

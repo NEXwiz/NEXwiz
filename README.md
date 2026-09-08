@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CS Graduate from Bennett University (CGPA 8.39).
+- 🎓 Computer Science Graduate from Bennett University (CGPA 8.39).
 - 💡 Building production ready AI systems, autonomous agent workflows, and low latency retrieval pipelines.
 - 🔭 Focusing deeply on three areas: **Agentic AI (multi agent systems), Model Context Protocol (MCP) servers, and scalable RAG pipelines**.
 - 💼 Actively looking for full time **AI/ML Engineer** roles where I can ship high impact products.
